@@ -1,15 +1,21 @@
-# trueautomation-java-example
+# trueautomation-java-saucelabs
 
-You must have installed TrueAutomation client, JDK 8 or later. 
+You must have: <br>
+installed TrueAutomation client, JDK 8 or later. <br>
+account at saucelabs.com
 
-## How to run test: 
+## How to run test:
 
 * Checkout project
- 
- ```
- clone https://github.com/shapovalovei/trueautomation-testng.git
- ```
 
+ ```
+ git clone https://github.com/pyavchik/trueautomation-java-saucelabs.git
+ ```
+* Set up your username and automation key:
+```
+public static final String USERNAME = "USERNAME";
+public static final String ACCESS_KEY = "ACCESS_KEY"
+```
 * Init project use `trueautomation init` command
  
 * Run test
