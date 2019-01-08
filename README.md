@@ -11,7 +11,7 @@ account at saucelabs.com
  ```
  git clone https://github.com/pyavchik/trueautomation-java-saucelabs.git
  ```
-* Set up your username and automation key:
+* Set up your username and access key:
 ```
 public static final String USERNAME = "USERNAME";
 public static final String ACCESS_KEY = "ACCESS_KEY"
