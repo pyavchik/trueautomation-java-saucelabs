@@ -14,7 +14,7 @@ account at saucelabs.com
 * Set up your username and access key:
 ```
 public static final String USERNAME = "USERNAME";
-public static final String ACCESS_KEY = "ACCESS_KEY"
+public static final String ACCESS_KEY = "ACCESS_KEY";
 ```
 * Init project use `trueautomation init` command
  
